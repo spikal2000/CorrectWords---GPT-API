@@ -8,9 +8,9 @@ I initially started with fine-tuning GPT-2, attempting to get specific outputs t
 After running into limitations with GPT-2, I transitioned to using GPT-4. The approach has involved providing correct prompts to obtain better responses and results. The switch to GPT-4 has significantly improved the quality of the outputs.
 
 **Project Goals**
-Fine-tune GPT-2 for specific tasks.
-Evaluate GPT-2's performance against GPT-4.
-Enhance the output quality using advanced techniques with GPT-4 and specific prompts.
+*    Fine-tune GPT-2 for specific tasks.
+*    Evaluate GPT-2's performance against GPT-4.
+*    Enhance the output quality using advanced techniques with GPT-4 and specific prompts.
 
 
 **Technology Stack**
