@@ -14,7 +14,7 @@ Enhance the output quality using advanced techniques with GPT-4 and specific pro
 
 
 **Technology Stack**
-Python: For running the models and fine-tuning.
-Hugging Face Transformers: Utilized for working with pre-trained models and fine-tuning.
-GPT-2: For initial fine-tuning attempts.
-GPT-4 (gpt-4o): For more advanced inference and improved accuracy.
+-    Python: For running the models and fine-tuning.
+-    Transformers: Utilized for working with pre-trained models and fine-tuning.
+-    GPT-2: For initial fine-tuning attempts.
+-    GPT-4 (gpt-4o): For more advanced inference and improved accuracy.
