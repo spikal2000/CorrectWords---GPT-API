@@ -19,7 +19,7 @@ After running into limitations with GPT-2, I transitioned to using GPT-4. The ap
 -    GPT-2: For initial fine-tuning attempts.
 -    GPT-4 (gpt-4o): For more advanced inference and improved accuracy.
 
-## The Result of **gpt4o-mini** model
+## The Results of **gpt4o-mini** model
 -     The prompt
   
 ![gpt_prompt](https://github.com/user-attachments/assets/e8167bc2-7926-4e65-bac0-8be6c6c6697d)
