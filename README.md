@@ -22,8 +22,8 @@ After running into limitations with GPT-2, I transitioned to using GPT-4. The ap
 ## The Results of **gpt4o-mini** model
 -     The prompt
   
-  # ![gpt_prompt](https://github.com/user-attachments/assets/e8167bc2-7926-4e65-bac0-8be6c6c6697d)
+       ![gpt_prompt](https://github.com/user-attachments/assets/e8167bc2-7926-4e65-bac0-8be6c6c6697d)
 
 
 -     The Result
-  ![gpt4o](https://github.com/user-attachments/assets/ae90edf4-4f95-4265-979e-3b12c37b50c6)
+      ![gpt4o](https://github.com/user-attachments/assets/ae90edf4-4f95-4265-979e-3b12c37b50c6)
